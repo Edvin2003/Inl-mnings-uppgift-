@@ -1,0 +1,10 @@
+C:\Users\eddes\source\repos\inläningsuppgift1\inläningsuppgift1\obj\Debug\inläningsuppgift1.csprojAssemblyReference.cache
+C:\Users\eddes\source\repos\inläningsuppgift1\inläningsuppgift1\obj\Debug\inläningsuppgift1.Form1.resources
+C:\Users\eddes\source\repos\inläningsuppgift1\inläningsuppgift1\obj\Debug\inläningsuppgift1.Properties.Resources.resources
+C:\Users\eddes\source\repos\inläningsuppgift1\inläningsuppgift1\obj\Debug\inläningsuppgift1.csproj.GenerateResource.cache
+C:\Users\eddes\source\repos\inläningsuppgift1\inläningsuppgift1\obj\Debug\inläningsuppgift1.csproj.CoreCompileInputs.cache
+C:\Users\eddes\source\repos\inläningsuppgift1\inläningsuppgift1\bin\Debug\inläningsuppgift1.exe.config
+C:\Users\eddes\source\repos\inläningsuppgift1\inläningsuppgift1\bin\Debug\inläningsuppgift1.exe
+C:\Users\eddes\source\repos\inläningsuppgift1\inläningsuppgift1\bin\Debug\inläningsuppgift1.pdb
+C:\Users\eddes\source\repos\inläningsuppgift1\inläningsuppgift1\obj\Debug\inläningsuppgift1.exe
+C:\Users\eddes\source\repos\inläningsuppgift1\inläningsuppgift1\obj\Debug\inläningsuppgift1.pdb
